@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.row {
+    margin: 0%;
+}
+
+
+
+#title {
+    background-color: #3E8E7E;
+}
+
+.title-heading {
+    font-weight: 900;
+    color: #ffffff;
+}
+
+#result {
+    background-color: #FAEDC6;
+}
+
+.player-1 {
+    background-color: #FABB51;
+}
+
+.player-2 {
+    background-color: #7CD1B8;
+}
+
+.die-image {
+    width: 20%;
+    padding: 30vh 0 30vh 0;
+}
+
+.col-sm-12 {
+
+}
+
